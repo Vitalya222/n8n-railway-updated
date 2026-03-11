@@ -1,2 +1,1 @@
-FROM domoritz/n8n-python:latest
-RUN pip install bdfr
+FROM n8nio/n8n:latest
